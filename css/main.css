@@ -1,0 +1,45 @@
+body{
+	background-color:grey;
+	line-height:2em;
+	text-align:center;
+	padding:20px;
+
+}
+.container{
+	background-color: white;
+	line-height: 3.0em;
+	width: 1000px;
+}
+.container .panel .top: {
+	float:left;
+	text-align:center;
+	padding: 20px;
+	background-color:red ;
+}
+.container .panel .top {
+	
+	text-align: center;
+	padding: 20px;
+	background-color: yellow;
+}
+.container .panel .top{
+	
+	text-align:center;
+	background-color: pink;
+}
+.container .panel .middle{
+	background-color:blue;
+	text-align: center;
+	
+}
+.container .panel .bottom{
+	background-color: red;
+	
+	text-align: center;
+}
+.cotainer .panel .bottom {
+	background-color: purple;
+	
+	text-align: center;
+}
+
